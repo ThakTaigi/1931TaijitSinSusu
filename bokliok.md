@@ -18,3 +18,6 @@ title: 目錄
 - [附錄ノ分](./chheh/?page=50){:target="_blank"}
 - [詞彙](./chheh/?page=52){:target="_blank"}
 - [正誤訂正](./chheh/?page=1372){:target="_blank"}
+
+## Pó͘-chhiong Chu-liāu 補充資料
+- [「臺灣語仮名-白話字」對應表](./chheh-chuliau/《台日新辭書》——「台灣語仮名-白話字」對應表_20220514.pdf){:target="_blank"}
