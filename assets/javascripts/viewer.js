@@ -1,11 +1,11 @@
 (function(){
   let imgSources = [];
   const imgSourcesMin = 1;
-  const imgSourcesMax = 12;
+  const imgSourcesMax = 1385;
   for (i = imgSourcesMin; i < imgSourcesMax + 1; i++) {
     imgSources.push({
       type: 'image',
-      url:  `../chheh/TJTST1_${('00' + i).slice(-3)}.jpg`
+      url:  `../chheh/1931TaijitSinSusu_Page_${('000' + i).slice(-4)}.jpg`
     })
   }
   const viewer = OpenSeadragon({
